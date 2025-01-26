@@ -1,0 +1,45 @@
+.MainBox {
+    display: flex;
+    padding: 10px;
+    border-bottom: 1px solid white;
+}
+
+.PosterImg {
+    width: 250px;
+    height: 400px;
+}
+
+.SecondBox {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.GoBack {
+    width: 80px;
+    height: 30px;
+}
+
+.DetailsBox {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.CastReviewsBox {
+    padding: 10px;
+    padding-top: 0;
+}
+
+.CastReviewsLinks {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid white;
+    padding-bottom: 10px;
+}
+
+.GenresBox {
+    display: flex;
+    gap: 10px;
+    padding: 0;
+    margin: 0;
+}
